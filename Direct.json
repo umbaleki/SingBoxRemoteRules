@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+      {"domain_keyword": ["ipleak.net"]},
+      {"process_name": [
+        "explorer.exe",
+        "lsass.exe",
+        "services.exe",
+        "SystemSettings.exe",
+        "SearchHost.exe",
+        "SearchApp.exe",
+        "spoolsv.exe",
+        "ShellExperienceHost.exe",
+        "StartMenuExperienceHost.exe",
+        "Taskhostw.exe",
+        "NisSrv.exe",
+        "ncsi.exe",
+        "MsMpEng.exe",
+        "SecurityHealthService.exe",
+        "SecurityHealthSystray.exe",
+        "SmartScreen.exe",
+        "SgrmBroker.exe",
+        "dwm.exe"
+      ]}
+  ]
+}

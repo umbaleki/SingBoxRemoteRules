@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+      {"domain_suffix": [
+        "dnsleaktest.com",
+        "github.com"
+      ]},
+      {"process_name": [
+        "Telegram.exe",
+        "Discord.exe"
+      ]}
+  ]
+}
